@@ -436,12 +436,10 @@ ultrasound-breast-tumor-segmentation/
 
 ## Author
 
-**[Your Name]**  
-Student in Artificial Intelligence Engineering  
-*[Your institution]*
+**BENKHELIL Cirine**  
+Student in Electronics 
+*Rennes*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/yourusername)
 
 ---
 
